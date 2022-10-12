@@ -30,5 +30,5 @@ class Ornitorrinco(Mamifero, Ave):
 gato = Gato(nro_patas=4, cor_pelo="Preto")
 print(gato)
 
-ornitorrinco = Ornitorrinco(nro_patas=2, cor_pelo="vermelho", cor_bico="laranja")
+ornitorrinco = Ornitorrinco(nro_patas=4, cor_pelo="vermelho", cor_bico="laranja")
 print(ornitorrinco)
